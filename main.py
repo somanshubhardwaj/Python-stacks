@@ -39,8 +39,9 @@ def Display(stk):
         for a in range(top - 1, -1, -1):
             print(stk[a])
 
-
-# __main__
+"""
+__main__
+"""
 Stack = []
 top = None
 
